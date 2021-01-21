@@ -1,0 +1,35 @@
+body {
+  font-family: Roboto;
+}
+
+.profile {
+  height: 90px;
+  width: 90px;
+  padding-right: 20px;
+}
+
+.linksWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.workExperience {
+  padding-bottom: 15px;
+}
+
+.linkResume {
+  text-decoration: none;
+  padding-right: 10px;
+}
+
+.contactLink {
+  text-decoration: none;
+  padding-right: 10px;
+}
+
+.hobbies {
+  text-decoration: none;
+}
